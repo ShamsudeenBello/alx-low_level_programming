@@ -1,11 +1,11 @@
 #include <studio.h>
 /**
  * main -Entry point
- * 
- * Return: Always 0 (Success/correct)
+ *
+ * Return: Always return  0 (Sucess/Crrect)
  */
-int main(void)
 
+int main(void)
 {
 char alphabet;
 
