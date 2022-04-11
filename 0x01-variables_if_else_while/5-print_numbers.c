@@ -2,19 +2,18 @@
 /**
  * main - Entry point
  * 
- * Return: Always 0 (sucess/correct)
+ * Return: Always 0 sucess/correct
  */
 int main(void)
 {
 int digit;
 
-for (digit = o; digit < 10; digit++)
+for (digit = 0; digit < 10; digit++)
 {
-ptrintf("%digit", digit);
+printf("%digit", digit);
 }
 
 printf("\n");
 
 return (0);
-
 }
