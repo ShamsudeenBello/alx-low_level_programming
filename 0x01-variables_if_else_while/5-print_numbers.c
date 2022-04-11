@@ -2,15 +2,16 @@
 /**
  * main - Entry point
  * 
- * Return: Always 0 sucess/correct
+ * Return: Always 0 (sucess/correct)
  */
 int main(void)
-{
-int digit;
 
-for (digit = 0; digit < 10; digit++)
 {
-printf("%digit", digit);
+int i;
+
+for (i = 0; i < 10; i++)
+{
+printf("%i", i);
 }
 
 printf("\n");
