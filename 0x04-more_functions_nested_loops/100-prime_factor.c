@@ -1,4 +1,4 @@
-<#include <stdio.h>
+#include <stdio.h>
 /**
  * main - prime factors of 612852475143
  *
@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	assigned long n, i, max;
+	unsigned long n, i, max;
 
 	n = 612852475143;
 	max = i;
